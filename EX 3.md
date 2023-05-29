@@ -48,5 +48,7 @@ SERVER OUTPUT :
 CLIENT OUTPUT :
 
 ![2output](https://github.com/ARUNKUMART9968/EX-3/assets/121215794/a3cca31b-f0e9-4c32-8704-22838fade788)
+
 RESULT :
+
 Thus, python program to perform stop and wait protocol was successfully executed.
